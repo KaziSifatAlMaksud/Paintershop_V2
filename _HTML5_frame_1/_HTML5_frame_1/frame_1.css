@@ -1,0 +1,892 @@
+/*
+	@name frame_1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 602px; width: 602px; height: 2012px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__frame_1 {
+	top: 0px;
+	left: 0px;
+	width: 602px;
+	height: 2012px;
+	background:#;
+}
+
+
+#rectangle_34625180 {
+	top: 65px;
+	left: 0px;
+	width: 578px;
+	height: 1947px;
+	background:rgba(230,230,230,1);
+}
+
+#group_239780 {
+	top: 0px;
+	left: 0px;
+	width: 578.47px;
+	height: 492px;
+}
+
+#_bg__group_239780_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 578.47px;
+	height: 492px;
+	background:#;
+}
+
+
+#image_404 {
+	top: 133px;
+	left: 0px;
+	width: 578.47px;
+	height: 359px;
+}
+
+
+#rectangle_34625102 {
+	top: 0px;
+	left: 0px;
+	width: 578.47px;
+	height: 120px;
+}
+
+
+#logo_phone_12 {
+	top: 6px;
+	left: 449px;
+	width: 110.54px;
+	height: 114.63px;
+}
+
+
+#job_file {
+	top: 35px;
+	left: 194px;
+	width: 358.49px;
+	height: 72.73px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	-ms-text-shadow:1px 7px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 7px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 7px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 7px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 7px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#arrow_359 {
+	top: 54px;
+	left: 37px;
+	width: 48.62px;
+	height: 39.46px;
+}
+
+#group_239781 {
+	top: 509px;
+	left: 17.65px;
+	width: 542.19px;
+	height: 478px;
+}
+
+#_bg__group_239781_ek1 {
+	top: -509px;
+	left: -18px;
+	width: 542.19px;
+	height: 478px;
+	background:#;
+}
+
+
+#rectangle_34625108 {
+	top: -3px;
+	left: -3px;
+	width: 542.19px;
+	height: 478px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 3px solid #e8e6e6;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#_110_macksville_st_carnes_hill {
+	top: 135px;
+	left: 39px;
+	width: 472.1px;
+	height: 56.94px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#render__cladding___inside_3_coats__other_painter_did_all_the_moroka__also_the_other_painter_finied_the_ceilings__you_do_the_rest {
+	top: 362px;
+	left: 42px;
+	width: 481.66px;
+	height: 89.64px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 18px;
+	text-align: left;
+	color:#6A5858;
+}
+
+#group_239720 {
+	top: 212px;
+	left: 45px;
+	width: 350.06px;
+	height: 121.95px;
+}
+
+#_bg__group_239720_ek1 {
+	top: -721px;
+	left: -63px;
+	width: 350.06px;
+	height: 121.95px;
+	background:#;
+}
+
+
+#_4793321_1 {
+	top: 33px;
+	left: 0px;
+	width: 34.22px;
+	height: 31.76px;
+}
+
+
+#_1295109_1 {
+	top: 70px;
+	left: 0px;
+	width: 34.22px;
+	height: 33.03px;
+}
+
+
+#_25_may_23__in_2_weeks__256m2 {
+	top: 0px;
+	left: 36px;
+	width: 330.22px;
+	height: 126.65px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 17px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_239722 {
+	top: 191px;
+	left: 45px;
+	width: 244.78px;
+	height: 48.27px;
+}
+
+#_bg__group_239722_ek1 {
+	top: -700px;
+	left: -63px;
+	width: 244.78px;
+	height: 48.27px;
+	background:#;
+}
+
+
+#__500_00_inc_gst {
+	top: 6px;
+	left: 37px;
+	width: 223.63px;
+	height: 46.62px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 17px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_126169_1 {
+	top: 0px;
+	left: 0px;
+	width: 36.85px;
+	height: 35.57px;
+}
+
+
+#job_details {
+	top: 67px;
+	left: 33px;
+	width: 94.02px;
+	height: 42.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#profit_page {
+	top: 67px;
+	left: 415px;
+	width: 97.94px;
+	height: 42.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#details_icon_png_cc_by_3_0__it_1_4 {
+	top: 530px;
+	left: 72px;
+	width: 38px;
+	height: 39px;
+}
+
+
+#_25581_4 {
+	top: 527px;
+	left: 261px;
+	width: 39px;
+	height: 45px;
+}
+
+
+#assigned_painter {
+	top: 576px;
+	left: 217px;
+	width: 141.6px;
+	height: 42.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_203 {
+	top: 598px;
+	left: 35px;
+	width: 97px;
+	height: 6px;
+}
+
+
+#vector_27 {
+	top: 1696px;
+	left: 313px;
+	width: 52px;
+	height: 73px;
+}
+
+
+#download_43 {
+	top: 524px;
+	left: 457px;
+	width: 47px;
+	height: 45px;
+}
+
+#group_239424 {
+	top: 1071px;
+	left: 18.63px;
+	width: 570.47px;
+	height: 441px;
+}
+
+#_bg__group_239424_ek1 {
+	top: -1071px;
+	left: -19px;
+	width: 570.47px;
+	height: 441px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#;
+}
+
+#group_239378 {
+	top: 0px;
+	left: 0px;
+	width: 570.47px;
+	height: 441px;
+}
+
+#_bg__group_239378_ek1 {
+	top: -1071px;
+	left: -19px;
+	width: 570.47px;
+	height: 441px;
+	background:#;
+}
+
+#group_238839 {
+	top: 0px;
+	left: 0px;
+	width: 570.47px;
+	height: 441px;
+}
+
+#_bg__group_238839_ek1 {
+	top: -1071px;
+	left: -19px;
+	width: 570.47px;
+	height: 441px;
+	background:#;
+}
+
+
+#rectangle_34624588 {
+	top: -3px;
+	left: -3px;
+	width: 251px;
+	height: 129px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 3px solid #e8e6e6;
+	background:rgba(245,207,54,1);
+}
+
+#group_238840 {
+	top: 312px;
+	left: 0px;
+	width: 251px;
+	height: 129px;
+}
+
+#_bg__group_238840_ek1 {
+	top: -1383px;
+	left: -19px;
+	width: 251px;
+	height: 129px;
+	background:#;
+}
+
+
+#rectangle_34624588_ek1 {
+	top: -3px;
+	left: -3px;
+	width: 251px;
+	height: 129px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 3px solid #e8e6e6;
+	background:rgba(35,155,72,1);
+}
+
+
+#open_job_file_purchase_orders__plans___colours {
+	top: 342px;
+	left: 85px;
+	width: 232.99px;
+	height: 58.04px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_238839_ek2 {
+	top: 312px;
+	left: 280px;
+	width: 251px;
+	height: 129px;
+}
+
+#_bg__group_238839_ek3 {
+	top: -1383px;
+	left: -299px;
+	width: 251px;
+	height: 129px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#;
+}
+
+
+#rectangle_34624588_ek2 {
+	top: -3px;
+	left: -3px;
+	width: 251px;
+	height: 129px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 3px solid #e8e6e6;
+	background:rgba(57,213,177,1);
+}
+
+
+#start_ordering_order_paint_for_this_job {
+	top: 348px;
+	left: 357px;
+	width: 232.99px;
+	height: 58.04px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#call_builder_supervisor___mark_peters {
+	top: 33px;
+	left: 78px;
+	width: 232.99px;
+	height: 58.04px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_238839_ek4 {
+	top: 1071px;
+	left: 295.12px;
+	width: 253.94px;
+	height: 129px;
+}
+
+#_bg__group_238839_ek5 {
+	top: -1071px;
+	left: -295px;
+	width: 253.94px;
+	height: 129px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#;
+}
+
+
+#rectangle_34624588_ek3 {
+	top: -3px;
+	left: -0px;
+	width: 251px;
+	height: 129px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 3px solid #e8e6e6;
+	background:rgba(52,197,101,1);
+}
+
+
+#vector_19 {
+	top: 20px;
+	left: 7px;
+	width: 60.96px;
+	height: 93.59px;
+}
+
+
+#call_painter_joe {
+	top: 1104px;
+	left: 368px;
+	width: 232.4px;
+	height: 58.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_239773 {
+	top: 1227px;
+	left: 17.65px;
+	width: 251px;
+	height: 129px;
+}
+
+#_bg__group_239773_ek1 {
+	top: -1227px;
+	left: -18px;
+	width: 251px;
+	height: 129px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#;
+}
+
+
+#rectangle_34624588_ek4 {
+	top: -3px;
+	left: -3px;
+	width: 251px;
+	height: 129px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 3px solid #e8e6e6;
+	background:rgba(245,142,53,1);
+}
+
+
+#google_maps_see_how_far_the_jobs_is {
+	top: 1258px;
+	left: 96px;
+	width: 233.4px;
+	height: 58.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_239774 {
+	top: 1227px;
+	left: 298.06px;
+	width: 251px;
+	height: 129px;
+}
+
+#_bg__group_239774_ek1 {
+	top: -1227px;
+	left: -298px;
+	width: 251px;
+	height: 129px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#;
+}
+
+
+#rectangle_34624588_ek5 {
+	top: -3px;
+	left: -3px;
+	width: 251px;
+	height: 129px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 3px solid #e8e6e6;
+	background:rgba(53,159,239,1);
+}
+
+
+#assign_painter_send_this_job_to_a_painter {
+	top: 1261px;
+	left: 354px;
+	width: 233.4px;
+	height: 103.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_239775 {
+	top: 1544px;
+	left: 18.63px;
+	width: 251px;
+	height: 129px;
+}
+
+#_bg__group_239775_ek1 {
+	top: -1544px;
+	left: -19px;
+	width: 251px;
+	height: 129px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#;
+}
+
+
+#rectangle_34624588_ek6 {
+	top: -3px;
+	left: -3px;
+	width: 251px;
+	height: 129px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 3px solid #e8e6e6;
+	background:rgba(161,94,190,1);
+}
+
+
+#previous_order_seethe_paint_you_already_bought {
+	top: 1563px;
+	left: 97px;
+	width: 270.4px;
+	height: 103.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_239776 {
+	top: 1544px;
+	left: 299.04px;
+	width: 251px;
+	height: 129px;
+}
+
+#_bg__group_239776_ek1 {
+	top: -1544px;
+	left: -299px;
+	width: 251px;
+	height: 129px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#;
+}
+
+
+#rectangle_34624588_ek7 {
+	top: -3px;
+	left: -3px;
+	width: 251px;
+	height: 129px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 3px solid #e8e6e6;
+	background:rgba(250,135,122,1);
+}
+
+
+#invoice_send_invoices_for_this_job {
+	top: 1567px;
+	left: 388px;
+	width: 233.4px;
+	height: 103.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#vector_19_ek1 {
+	top: 1091px;
+	left: 25px;
+	width: 60.96px;
+	height: 93.59px;
+}
+
+#group_239777 {
+	top: 1700px;
+	left: 18.63px;
+	width: 251px;
+	height: 129px;
+}
+
+#_bg__group_239777_ek1 {
+	top: -1700px;
+	left: -19px;
+	width: 251px;
+	height: 129px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#;
+}
+
+
+#rectangle_34624588_ek8 {
+	top: -3px;
+	left: -3px;
+	width: 251px;
+	height: 129px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 3px solid #f4f3f3;
+	background:rgba(53,210.44,245,1);
+}
+
+
+#update_photo_snap_a_job_photo_of_this_house_for_easy_reference {
+	top: 1731px;
+	left: 75px;
+	width: 233.4px;
+	height: 58.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_239778 {
+	top: 1700px;
+	left: 299.04px;
+	width: 251px;
+	height: 129px;
+}
+
+#_bg__group_239778_ek1 {
+	top: -1700px;
+	left: -299px;
+	width: 251px;
+	height: 129px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#;
+}
+
+
+#rectangle_34624588_ek9 {
+	top: -3px;
+	left: -3px;
+	width: 251px;
+	height: 129px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 3px solid #e8e6e6;
+	background:rgba(53,71.6,239,1);
+}
+
+
+#finished_job_mark_this_job_as_finished {
+	top: 1734px;
+	left: 355px;
+	width: 233.4px;
+	height: 103.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_239779 {
+	top: 1850px;
+	left: 28.43px;
+	width: 521.6px;
+	height: 76px;
+}
+
+#_bg__group_239779_ek1 {
+	top: -1850px;
+	left: -28px;
+	width: 521.6px;
+	height: 76px;
+	background:#;
+}
+
+
+#rectangle_34624588_ek10 {
+	top: -3px;
+	left: -3px;
+	width: 521.6px;
+	height: 76px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 3px solid #ffffff;
+	background:rgba(245,53,53,1);
+}
+
+
+#delete_this_job_delete_this_entire_job_file {
+	top: 1866px;
+	left: 182px;
+	width: 234.6px;
+	height: 58.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#vector_24 {
+	top: 1722px;
+	left: 303px;
+	width: 52px;
+	height: 73px;
+}
+
+
+
+/* Add your custom CSS here */
